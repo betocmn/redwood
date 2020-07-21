@@ -1,7 +1,6 @@
 on: 
   push:
     branches: 
-      - master
       - dsp-add-contributors-readme
     paths-ignore:
       - 'README.md'
